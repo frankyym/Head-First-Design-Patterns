@@ -1,0 +1,2 @@
+valgrind --leak-check=yes ./Duck
+valgrind --leak-check=full --show-leak-kinds=all ./Duck
