@@ -1,7 +1,7 @@
 BIN = Duck
 CXX = g++
 CXXFLAGS = -g
-#INCLUDE = duck.h behavior.h
+#INCLUDE = *.h
 
 all: $(BIN)
 
